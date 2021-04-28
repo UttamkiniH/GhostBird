@@ -7,7 +7,6 @@ flappy bird game
 <img src="lib/images/1.png" height=500>< ><img src="lib/images/2.png" height=500>< ><img src="lib/images/3.png" height=500>< ><img src="lib/images/4.png" height=500>
 
 
-![Screenshot](1.png)
 
 ## Getting Started
 
