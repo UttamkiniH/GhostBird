@@ -1,6 +1,5 @@
-# flappy_bird
+# GhostBird 👻
 
-flappy bird game
 
 ## Screenshots
 
